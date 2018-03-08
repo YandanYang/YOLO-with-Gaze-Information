@@ -1,0 +1,6 @@
+classes= 41
+train  = /home/gazetracker/otherSw/darknet/data/kitchen/train.txt    
+valid  = /home/gazetracker/otherSw/darknet/data/kitchen/val.txt     
+names = data/kitchen.names
+backup = backup/
+EVAL = kitchen

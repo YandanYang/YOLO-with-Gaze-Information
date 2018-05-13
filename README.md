@@ -1,7 +1,7 @@
 # Facilitating Object Detection with Gaze Information for Kitchen Environments
 ![sample](https://user-images.githubusercontent.com/26382762/37161222-5ffc149a-22f2-11e8-9d57-fa2b135e2325.png)
 (Because of the large size, here I didn't upload backup/*weights, *.mp4, or dataset. ) 
-![](https://github.com/YandanYang/YOLO-with-Gaze-Information/raw/master/demo.avi)
+![video](https://github.com/YandanYang/YOLO-with-Gaze-Information/raw/master/demo.avi)
 ## 1 Getting Started
 
 Here we combine [Pupil](https://docs.pupil-labs.com) and [Darknet](https://pjreddie.com/darknet/yolo/).

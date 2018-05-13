@@ -1,6 +1,7 @@
 # Facilitating Object Detection with Gaze Information for Kitchen Environments
 ![sample](https://user-images.githubusercontent.com/26382762/37161222-5ffc149a-22f2-11e8-9d57-fa2b135e2325.png)
-Demo Video file: ![Watch the Video](https://github.com/YandanYang/YOLO-with-Gaze-Information/raw/master/demo.avi)
+![Watch the Video](https://github.com/YandanYang/YOLO-with-Gaze-Information/raw/master/demo.avi)
+
 (Because of the large size, here I didn't upload backup/*weights, or dataset. ) 
 ## 1 Getting Started
 

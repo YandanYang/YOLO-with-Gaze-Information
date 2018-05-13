@@ -2,7 +2,7 @@
 ![sample](https://user-images.githubusercontent.com/26382762/37161222-5ffc149a-22f2-11e8-9d57-fa2b135e2325.png)
 (Because of the large size, here I didn't upload backup/*weights, or dataset. ) 
 
-![Video](https://github.com/YandanYang/YOLO-with-Gaze-Information/demo.avi)
+![video](https://github.com/YandanYang/YOLO-with-Gaze-Information/raw/master/demo.avi)
 
 ## 1 Getting Started
 
